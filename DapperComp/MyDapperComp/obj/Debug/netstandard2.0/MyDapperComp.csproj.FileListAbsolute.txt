@@ -1,9 +1,0 @@
-D:\AspNetCoreTest\DapperComp\MyDapperComp\bin\Debug\netstandard2.0\MyDapperComp.deps.json
-D:\AspNetCoreTest\DapperComp\MyDapperComp\bin\Debug\netstandard2.0\MyDapperComp.dll
-D:\AspNetCoreTest\DapperComp\MyDapperComp\bin\Debug\netstandard2.0\MyDapperComp.pdb
-D:\AspNetCoreTest\DapperComp\MyDapperComp\obj\Debug\netstandard2.0\MyDapperComp.csproj.CoreCompileInputs.cache
-D:\AspNetCoreTest\DapperComp\MyDapperComp\obj\Debug\netstandard2.0\MyDapperComp.AssemblyInfoInputs.cache
-D:\AspNetCoreTest\DapperComp\MyDapperComp\obj\Debug\netstandard2.0\MyDapperComp.AssemblyInfo.cs
-D:\AspNetCoreTest\DapperComp\MyDapperComp\obj\Debug\netstandard2.0\MyDapperComp.dll
-D:\AspNetCoreTest\DapperComp\MyDapperComp\obj\Debug\netstandard2.0\MyDapperComp.pdb
-D:\AspNetCoreTest\DapperComp\MyDapperComp\obj\Debug\netstandard2.0\MyDapperComp.csprojAssemblyReference.cache
